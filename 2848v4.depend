@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680239500 source:c:\users\arnol\onedrive\desktop\2048\2848v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+
